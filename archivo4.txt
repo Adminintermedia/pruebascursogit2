@@ -1,11 +1,1 @@
-<<<<<<< HEAD
 inea1
-linea2
-linea3
-liena4
-linea5
-
-
-=======
-inea1
->>>>>>> parent of 6b93b4f (agregando linea3)
